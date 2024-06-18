@@ -1,0 +1,7 @@
+.custom-shadow-button {
+    transition: box-shadow 0.2s ease;
+  }
+  
+  .custom-shadow-button:active {
+    box-shadow: 0 40px 15px rgba(238, 72, 72, 0.9);
+  }

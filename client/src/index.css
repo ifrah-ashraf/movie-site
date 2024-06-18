@@ -1,0 +1,7 @@
+/* Import the custom CSS */
+@import './custom.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
